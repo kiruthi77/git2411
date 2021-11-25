@@ -14,6 +14,10 @@ public class GreensTech {
 		
 
 	}
+	 public void greensThoraipakkam()  {
+		 System.out.println("omr");
+		 
+	 }
 	
 	public static void main(String[] args) {
 		GreensTech g = new GreensTech();
