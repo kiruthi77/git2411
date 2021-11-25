@@ -14,6 +14,10 @@ public class GreensTech {
 		
 
 	}
+	private void greens() {
+		System.out.println("greens");
+
+	}
 	
 	public static void main(String[] args) {
 		GreensTech g = new GreensTech();
